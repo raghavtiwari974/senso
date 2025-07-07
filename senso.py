@@ -1,6 +1,6 @@
 from openai import OpenAI
 import gradio as gr
-key ="AIzaSyAwJA-8d1QjGlnl0BeuQW37l2mrPp-A8iU"
+key ="your_api_key"
 
 gemini_model = OpenAI(
     api_key=key,
